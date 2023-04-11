@@ -1,5 +1,5 @@
 # Lab_of_Operating_System_Rinux_Kernel
-This is Tony's Labs of Operating System on Risc-V arch (@Zhejiang University)
+This is Tony's Labs of Operating System on Risc-V arch 2022 (@Zhejiang University)
 
 This is only for exchanging ideas & sparking innovation. I'm not responsible for **plagiarize**.
 
